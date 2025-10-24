@@ -5,7 +5,7 @@ date: 2025-10-24T04:48:21Z
 image: game_screenshot.png
 categories:
     - Mobile Development
-    -ongoing development
+    - Under Development
 tags:
     - Game Dev
     - C#
