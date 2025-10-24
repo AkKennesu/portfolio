@@ -1,7 +1,7 @@
 ---
 title: "SoundTrax_HiFid"
 description: "A music app UI/UX inspired by Spotify's interface"
-date: 2025-10-24T07:32:33Z
+date: 2023-04-07 00:00:00+0000
 image: soundtrax.png
 categories:
     - UI/UX Design

@@ -1,7 +1,7 @@
 ---
 title: "Entertainment_Website"
 description: "An entertainment website developed using HTML5 and Bootstap5"
-date: 2025-10-24T07:16:27Z
+date: 2023-02-04 00:00:00+0000
 image: entertainment.png
 categories:
     - Web Development

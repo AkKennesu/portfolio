@@ -1,7 +1,7 @@
 ---
 title: "Landing_page"
 description: "Landing page for The Android Quiz Game"
-date: 2025-10-24T05:16:00Z
+date: 2025-06-24T05:16:00Z
 image: landingpage.png
 categories:
     - Web Development
