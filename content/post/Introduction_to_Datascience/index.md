@@ -16,7 +16,7 @@ draft: false
 ---
 ### My Introduction to data science training
 
-In December 2022, I earned my **Introduction to Data Science Certificate** through a **7-day online training program on Coursera**. The course provided a comprehensive overview of the **fundamentals of data science**, covering essential topics such as data collection, cleaning, analysis, and visualization.  
+In July 2023, I earned my **Introduction to Data Science Certificate** through a **7-day online training program on Coursera**. The course provided a comprehensive overview of the **fundamentals of data science**, covering essential topics such as data collection, cleaning, analysis, and visualization.  
 
 Throughout the training, I learned how to apply **data-driven thinking** to real-world problems and gained hands-on experience using **Python** and **popular data analysis libraries**. The lessons also introduced key concepts in **machine learning**, helping me understand how algorithms can be used to extract insights and make predictions from data.  
 

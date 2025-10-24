@@ -16,7 +16,7 @@ draft: false
 ---
 ### My Introduction to Java training
 
-In 2022, I successfully earned a Java Programming E-Certificate after completing an intensive three-day online training program. The training focused on the core concepts of Java — from basic syntax and object-oriented programming principles to hands-on coding exercises and mini-projects that tested logic and problem-solving skills.
+In 2023, I successfully earned a Java Programming E-Certificate after completing an intensive three-day online training program. The training focused on the core concepts of Java — from basic syntax and object-oriented programming principles to hands-on coding exercises and mini-projects that tested logic and problem-solving skills.
 
 Throughout the training, I gained a deeper understanding of how Java powers many enterprise applications and platforms. The sessions also covered practical applications such as building simple console programs, working with classes and inheritance, and understanding data structures.
 
