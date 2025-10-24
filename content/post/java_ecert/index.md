@@ -1,7 +1,7 @@
 ---
 title: "Java_ecert"
 description: "Basic Java programming E-certifacte from DICT"
-date: 2023-11-24T08:00:38Z
+date: 2023-10-24T08:00:38Z
 image: javacert.png
 categories:
     - OOP Java
