@@ -1,7 +1,7 @@
 ---
 title: "DiscordBot"
 description: "A discord Music Bot using youtube api call, and also functions as a chat calculator and a gif generator for discord"
-date: 2022
+date: 2022-03-06 00:00:00+0000
 image: dcbot.png
 categories:
     - Python
