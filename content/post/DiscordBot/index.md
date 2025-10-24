@@ -1,7 +1,7 @@
 ---
 title: "DiscordBot"
 description: "A discord Music Bot using youtube api call, and also functions as a chat calculator and a gif generator for discord"
-date: 2022-2-24T06:49Z
+date: 2022
 image: bot.png
 categories:
     - Python
@@ -16,4 +16,6 @@ hidden: false
 comments: true
 draft: false
 ---
-This is a discord bot that serves as a music bot using youtube api call that will play via Voice Chat, It also accept spotify links then converts the title to be searchable on youtube to play a music, This bot also searches for gif using tenor. Check out the repository [Here]{https://github.com/AkKennesu/Discord-bot} feel free to check it out.
+This Discord bot was developed to provide music playback functionality within voice channels. It utilizes the YouTube API to stream audio directly in Voice Chat and supports Spotify links by converting track titles into searchable YouTube queries for playback. Additionally, the bot integrates the Tenor API to search and share GIFs within chats, enhancing user interaction and engagement.
+
+You can view the project repository on GitHub: [Discord Music Bot]{https://github.com/AkKennesu/Discord-bot}
