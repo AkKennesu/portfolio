@@ -13,7 +13,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
 ---
 This is my personal portfolio, designed and built using Hugo. I chose Hugo because it’s simple to work with, lightning-fast, and gives me full control over how I design and organize my content. It’s a great tool that lets me focus more on creativity and less on setup.
 
